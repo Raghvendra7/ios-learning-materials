@@ -4,6 +4,17 @@ The list mostly constains Swift-related sections with a small exception related 
 ## What is new
 The section contains materials that are dedicated to specific versions of `Swift`
 
+### Swift 5.3
+- [What’s new in Swift 5.3?](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3)
+- [How Do I Write Multiple Trailing Closures in Swift?](https://goshdarnmultipletrailingclosuresyntax.com)
+- [What's new in Swift](https://engineering.monstar-lab.com/2020/06/29/Whats-new-in-Swift)
+
+### Swift 5.2
+- [New Diagnostic Architecture Overview](https://swift.org/blog/new-diagnostic-arch-overview/)
+- [Using KeyPaths as functions in Swift 5.2](https://www.donnywals.com/using-keypaths-as-functions-in-swift-5-2/)
+- [Adding default values to subscript arguments in Swift 5.2](https://www.donnywals.com/adding-default-values-to-subscripts-in-swift-5-2/)
+- [How and when to use callAsFunction in Swift 5.2](https://www.donnywals.com/how-and-when-to-use-callasfunction-in-swift-5-2/)
+
 ### Swift 5.1
 - [What’s new in Swift 5.1](https://www.hackingwithswift.com/articles/182/whats-new-in-swift-5-1)
 - [How to use opaque return types in Swift 5.1](https://www.hackingwithswift.com/articles/187/how-to-use-opaque-return-types-in-swift-5-1)
@@ -12,6 +23,8 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift Opaque Result Types](https://jeroenscode.com/swift-opaque-result-types/)
 - [Shifting paradigms in Swift](https://www.swiftbysundell.com/posts/shifting-paradigms-in-swift)
 - [Swift Property Wrappers](https://nshipster.com/propertywrapper/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B410)
+- [Swift 5.1 Two Quick Tips](https://useyourloaf.com/blog/swift-5.1-two-quick-tips/)
+- [What is Module Stability in Swift and why should you care?](https://www.donnywals.com/what-is-module-stability-in-swift-and-why-should-you-care/)
 
 ### Swift 5.0
 - [What will be new in Swift 5?](https://medium.com/developerinsider/what-will-be-new-in-swift-5-cee94f241b44)
@@ -63,10 +76,13 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift: Using Enums to Write Safer Code — Part Two](https://bruno.ph/blog/articles/swift-enums-for-safer-code-part-2/)
 - [Advanced Enum (Enumerations) by Example - Swift Programming Language](https://developerinsider.co/advanced-enum-enumerations-by-example-swift-programming-language/)
 
-## Functional Builder (Swift 5.1)
+## Function Builder (Swift 5.1)
 
 ## Articles
 - [Digging deeper into the Swift behind SwiftUI](https://davidbeck.co/posts/2019-06-11-digging-deeper-into-the-swift-behind-swiftui)
+- [UIAlertController with Function Builders](https://felginep.github.io/2020-03-10/uialertcontroller-function-builders)
+- [Understanding Function Builders](https://www.andyibanez.com/posts/understanding-function-builders/)
+- [Crash course in Swift's 'function builders' with SwiftUI](https://blog.vihan.org/swift-function-builders/)
 
 ### Videos
 - [The Swift Behind SwiftUI – Daniel Steinberg at Hacking with Swift Live 2019](https://swiftui.map4b.com/2019/07/the-swift-behind-swiftui-daniel-steinberg-at-hacking-with-swift-live-2019/)
@@ -86,10 +102,16 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Dive deep into Swift String](https://flawlessapp.io/blog/dive-deep-into-swift-string/)
 - [String literals in Swift](https://www.swiftbysundell.com/posts/string-literals-in-swift)
 - [Empty Strings in Swift](https://useyourloaf.com/blog/empty-strings-in-swift/)
+- [How Strings and Substrings work in Swift](https://medium.com/@suragch/how-strings-and-substrings-work-in-swift-fd4dc43ee91d)
 
 ## Regular Expressions
 - [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
 - [Regular Expressions in Swift](https://nshipster.com/swift-regular-expressions/)
+- [NSRegularExpression](https://developer.apple.com/documentation/foundation/nsregularexpression)
+- [Regular Expressions in Swift](https://nshipster.com/swift-regular-expressions/)
+- [Regular Expressions in Swift](https://medium.com/@dkw5877/regular-expressions-in-swift-928561ad55c8)
+- [Regular Expressions Tutorial: Getting Started](https://www.raywenderlich.com/5765-regular-expressions-tutorial-getting-started)
+- [An Introduction to Regular Expressions](https://www.raywenderlich.com/5767-an-introduction-to-regular-expressions)
 
 ## Standard Data Structures
 - [Key difference between Dictionary and NSDictionary](http://lapcatsoftware.com/articles/key-difference.html)
@@ -97,6 +119,10 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Value Semantics
 - [Utilizing value semantics in Swift](https://www.swiftbysundell.com/posts/utilizing-value-semantics-in-swift)
+- [Combining value and reference types in Swift](https://www.swiftbysundell.com/articles/combining-value-and-reference-types-in-swift/)
+
+## Data Types
+- [Convert [UInt8] to Int](https://forums.swift.org/t/convert-uint8-to-int/30117)
 
 ## Structs
 - [Stop Using Structs!](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
@@ -115,6 +141,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Using protocols as composable extensions](https://mecid.github.io/2019/01/17/using-protocols-as-composable-extensions/)
 - [Refactoring With Protocols](https://useyourloaf.com/blog/refactoring-with-protocols/)
 - [Exploring Existential Types With Swift](https://medium.com/@dogwith1eye/exploring-existential-types-with-swift-c86142d7bd1c)
+- [Alternatives to protocols in Swift](https://www.swiftbysundell.com/articles/alternatives-to-protocols-in-swift/)
 
 ## Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
@@ -154,9 +181,13 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift Tip: Codable Enums](https://www.objc.io/blog/2018/01/23/codable-enums/)
 - [Indeterminate Types with Codable in Swift](https://medium.com/makingtuenti/indeterminate-types-with-codable-in-swift-5a1af0aa9f3d)
 - [Encode/Decode Array of Types conforming to protocol with JSONEncoder](https://stackoverflow.com/questions/44441223/encode-decode-array-of-types-conforming-to-protocol-with-jsonencoder)
+- [Dynamic Encodable with type erasure](https://medium.com/@sergey.gavrilyuk/dynamic-encodable-with-type-erasure-1875722b3171)
+- [Are KeyPaths Codable?](https://forums.swift.org/t/are-keypaths-codable/23920/6)
+- [GOING DEEP WITH DECODABLE](https://martiancraft.com/blog/2020/03/going-deep-with-decodable/)
 
 ### Code 
 - [Swift Codable Examples](https://github.com/detroit-labs/swift-codable-examples)
+- [AnyCodable](https://github.com/Flight-School/AnyCodable)
 
 ### Documentation
 - [Encoding and Decoding Custom Types](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
@@ -164,6 +195,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Ranges & Intervals
 - [Ranges and Intervals in Swift](https://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+- [4 ways to check if a range contains a value in Swift](https://medium.com/@dzungnguyen.hcm/4-ways-to-check-if-a-range-contains-a-value-in-swift-239fdc841f06)
 
 ## Type Erasure 
 - [Type erasure using closures in Swift](https://www.swiftbysundell.com/posts/type-erasure-using-closures-in-swift)
@@ -173,6 +205,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Breaking Down Type Erasure in Swift](https://www.bignerdranch.com/blog/breaking-down-type-erasures-in-swift/)
 - [A “Type Erasure” Pattern that Works in Swift](https://blog.jayway.com/2017/05/12/a-type-erasure-pattern-that-works-in-swift/)
 - [Swift: Attempting to Understand Type Erasure](https://www.natashatherobot.com/swift-type-erasure/)
+- [How To Use Type Erasure For Better Model Abstractions](https://tech.okcupid.com/using-type-erasure/)
 
 ## Properties
 - [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
@@ -181,9 +214,13 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/)
 - [Property observers in Swift](https://www.swiftbysundell.com/posts/property-observers-in-swift)
 - [Computed properties in Swift](https://www.swiftbysundell.com/posts/computed-properties-in-swift)
+- [Computed properties in Swift: A basic feature for safer and cleaner code](https://matteomanferdini.com/computed-property-swift/)
+- [Lazy Properties in Structs](https://oleb.net/blog/2015/12/lazy-properties-in-structs-swift/)
 
 ## Property Wrappers
 - [Property wrappers to remove boilerplate code in Swift](https://www.avanderlee.com/swift/property-wrappers/)
+- [Property wrappers in Swift 5.1: the missing @Published implementation](https://medium.com/genetec-tech/property-wrappers-in-swift-5-1-the-missing-published-implementation-1a466ebcf660)
+- [Making properties overridable only in debug builds](https://www.swiftbysundell.com/tips/making-properties-overridable-only-in-debug-builds/)
 
 ## KVO and Bindings
 - [Bindings and KVO alternatives](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
@@ -199,6 +236,8 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Optionals
 - [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/)
 - [Filtering Object To Optionals](https://swiftforward.wordpress.com/2016/06/17/filtering-objects-to-optionals/)
+- [Optionals in Swift explained: 5 things you should know](https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/)
+- [All About Swift Optional](https://medium.com/swiftcairo/all-about-swift-optional-25a4a31e06f5)
  
 ## Collections
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
@@ -222,9 +261,11 @@ The section contains materials that are dedicated to specific versions of `Swift
  
 ## Closures
 - [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
+- [Closures](https://www.swiftbysundell.com/basics/closures/)
 
 ## Weak, Strong and Unowned References
 - [Weak self and unowned self explained in Swift](https://www.avanderlee.com/swift/weak-self/)
+- [Discover Side Tables - Weak Reference Management Concept in Swift](https://maximeremenko.com/swift-arc-weak-references)
 
 ## Capture List
 - [Capture lists in Swift: what’s the difference between weak, strong, and unowned references?](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
@@ -246,6 +287,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ### @inline
 - [The Forbidden @inline Attribute in Swift](https://swiftrocks.com/the-forbidden-inline-attribute-in-swift.html)
+- [[swift-users] inline best practices?](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20170227/004886.html)
  
 ## Pattern Matching
 - [Pattern Matching, Part 1: switch, enums & where clauses](http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/)
@@ -257,6 +299,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Writing Custom Pattern Matching in Swift](https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift.html) 
 - [Pattern Matching with case let](https://mecid.github.io/2019/02/06/pattern-matching-with-case-let/)
 - [Pattern matching in Swift](https://www.swiftbysundell.com/posts/pattern-matching-in-swift)
+- [Defining custom patterns in Swift](https://www.swiftbysundell.com/articles/defining-custom-patterns-in-swift/)
  
 ## Assertion
 - [Swift asserts - the missing manual](https://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
@@ -276,9 +319,12 @@ The section contains materials that are dedicated to specific versions of `Swift
  
 ## Copy-On-Write
 - [Use Copy-On-Write With Swift Value Types](https://marcosantadev.com/copy-write-swift-value-types/)
+- [Understand Copy-on-Write in Swift 5](https://medium.com/better-programming/understand-copy-on-write-in-swift-5-52a4716165a3)
 
 ## KeyPath
 - [Swift 4 KeyPaths and You](https://www.klundberg.com/blog/swift-4-keypaths-and-you/)
+- [The power of key paths in Swift](https://www.swiftbysundell.com/articles/the-power-of-key-paths-in-swift/)
+- [Using KeyPaths as functions in Swift 5.2](https://www.donnywals.com/using-keypaths-as-functions-in-swift-5-2/)
 
 ## Subscripts
 - [Handling Index Out of Range Exception the Swift Way](http://www.vadimbulavin.com/handling-out-of-bounds-exception/)
@@ -286,6 +332,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Defer
 - [guard & defer](https://nshipster.com/guard-and-defer/)
 - [Defer usage in Swift](https://github.com/jVirus/ios-learning-materials/edit/master/Lists/Swift.md)
+- [Cleaning Up With Swift Defer](https://useyourloaf.com/blog/cleaning-up-with-swift-defer/)
 
 ## Timer
 - [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
@@ -313,6 +360,13 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## ARC
 - [Understand ARC](https://makeapppie.com/2019/05/08/understand-arc/)
 - [ARC and Memory Management in Swift](https://www.raywenderlich.com/966538-arc-and-memory-management-in-swift)
+- [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
+
+## Any & AnyObject
+- [Any & AnyObject in iOS](https://medium.com/flawless-app-stories/any-anyobject-in-ios-803515bd95a6)
+
+## Result Type
+- [Using Result in Swift 5](https://www.donnywals.com/using-result-in-swift-5/)
 
 ## Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
@@ -340,3 +394,4 @@ Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 - [Inline types and functions in Swift](https://www.swiftbysundell.com/posts/inline-types-and-functions-in-swift)
 - [Chris Lattner on the origins of Swift](https://oleb.net/2019/chris-lattner-swift-origins/)
 - [Exploring the Swift standard library source code](https://useyourloaf.com/blog/exploring-the-swift-standard-library-source-code/)
+- [What makes code “Swifty”?](https://www.swiftbysundell.com/articles/what-makes-code-swifty/)

@@ -12,12 +12,18 @@
 - [Better tests for delegates](http://www.mokacoding.com/blog/better-tests-for-delegates/)
 - [Starting Unit Testing with Model layer](https://mecid.github.io/2019/04/24/starting-unit-testing-with-model-layer/)
 - [Tips and tricks on unit testing iOS apps](https://www.kairadiagne.com/2019/05/31/ios-testing-tips-and-tricks)
+- [XCTest Error Handling Improvements](https://useyourloaf.com/blog/xctest-error-handling-improvements)
+- [Testing private methods and variables in Swift](https://www.avanderlee.com/swift/testing-private-methods-variables/)
+- [Effective Unit Testing](https://kean.github.io/post/unit-testing)
 
 ## Expectations / Async Testing
 - [INVERTED EXPECTATIONS](https://pfandrade.me/blog/inverted-expectations/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B392)
 - [Testing Asynchronous Operations with Expectations](https://developer.apple.com/documentation/xctest/asynchronous_tests_and_expectations/testing_asynchronous_operations_with_expectations)
 - [XCTest​Case / XCTest​Expectation / measure​Block()](https://nshipster.com/xctestcase/)
 - [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
+
+## Snaphot
+- [Higher-Order Snapshot Testing](https://www.pointfree.co/blog/posts/31-higher-order-snapshot-testing)
 
 ## UIViewController, UICollectionView, UITableView Testing
 - [Unit Test - UICollectionView in UIViewController with example](https://zaccc123.github.io/blog/2017/unit-testing-uicollectionview-in-uiviewcontroller-with-example/)

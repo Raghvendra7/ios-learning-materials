@@ -1,13 +1,12 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Language](https://img.shields.io/badge/language-Swift-green.svg)]()
-[![Founded](https://img.shields.io/badge/founded-August_2017-ff69b4.svg)]()
-[![Materials](https://img.shields.io/badge/materials-1539-important.svg)]()
-[![MajorTopics](https://img.shields.io/badge/major_topics-75-red.svg)]()
-[![Contributors](https://img.shields.io/badge/contributors-8-informational.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
-
-**Last Update: 21/August/2019.**
+![GitHub last commit](https://img.shields.io/github/last-commit/jvirus/ios-learning-materials?label=Last%20Commit)
+[![Language](https://img.shields.io/badge/Language-Swift-green.svg)]()
+[![Founded](https://img.shields.io/badge/Founded-August_2017-ff69b4.svg)]()
+[![Materials](https://img.shields.io/badge/Materials-2051-important.svg)]()
+[![MajorTopics](https://img.shields.io/badge/Major_Topics-81-red.svg)]()
+![GitHub contributors](https://img.shields.io/github/contributors/jvirus/ios-learning-materials)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
 ![](logo-alternative.jpg)
 
@@ -39,6 +38,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SiriKit](Lists/SiriKit.md)
 - [CallKit](Lists/CallKit.md)
 - [PushKit](Lists/PushKit.md)
+- [MetricKit](Lists/MetricKit.md)
 - [CoreML](Lists/CoreML.md)
 - [CreateML](Lists/CreateML.md)
 - [Core Animation](Lists/CoreAnimation.md)
@@ -53,6 +53,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Vision](Lists/Vision.md)
 - [AVFoundation](Lists/AVFoundation.md)
 - [AppKit](Lists/AppKit.md)
+- [SearchKit](Lists/SearchKit.md)
+- [Auto Layout](Lists/AutoLayout.md)
+- [AuthenticationServices](Lists/AuthenticationServices.md)
 - [Project Catalyst](Lists/ProjectCatalyst.md)
 - [Asset Catalog](Lists/AssetCatalog.md)
 - [Playgrounds](Lists/Playgrounds.md)
@@ -76,7 +79,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [App Extensions](Lists/AppExtensions.md)
 - [WWDC](Lists/WWDC.md)
 - [Git](Lists/Git.md)
-- [iOS Development](Lists/iOSDevelopment.md)
+- [Development](Lists/Development.md)
 - [Algorithms and Data Structures](Lists/AlgorithmsAndDataStructures.md)
 - [Asynchronous Programming](Lists/AsynchronousProgramming.md)
 - [Functional Programming](Lists/FunctionalProgramming.md)
@@ -97,6 +100,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Accessibility](Lists/Accessibility.md)
 - [Interview](Lists/Interview.md)
 - [Business](Lists/Business.md)
+- [Project Management](Lists/ProjectManagement.md)
+- [Product](Lists/Product.md)
 
 # 👨‍💻 Author
 

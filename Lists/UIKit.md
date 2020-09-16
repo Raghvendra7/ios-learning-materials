@@ -1,11 +1,24 @@
 # UIKit
 
+## UIKeyCommand
+- [How to use UIKeyCommand to add keyboard shortcuts](https://www.hackingwithswift.com/example-code/uikit/how-to-use-uikeycommand-to-add-keyboard-shortcuts)
+- [Adding Hardware Keyboard Shortcuts](https://useyourloaf.com/blog/adding-hardware-keyboard-shortcuts/)
+- [UIKeyCommands don't work when intermediary viewController contains two viewControllers](https://stackoverflow.com/questions/39216042/uikeycommands-dont-work-when-intermediary-viewcontroller-contains-two-viewcontr)
+
+## Scene Delegate
+- [The Scene Delegate In Xcode 11 And iOS 13](https://learnappmaking.com/scene-delegate-app-delegate-xcode-11-ios-13/)
+- [Understanding the iOS 13 Scene Delegate](https://www.donnywals.com/understanding-the-ios-13-scene-delegate/)
+
 ## Dark Mode
 - [How To Adopt Dark Mode In Your iOS App ](https://www.fivestars.blog/code/ios-dark-mode-how-to.html)
 - [Dark mode iOS 13 – How to enable Dark Mode for your iOS application? [iOS Tutorial]](https://www.spaceotechnologies.com/dark-mode-ios-13-tutorial/)
+- [Implementing Dark Mode in iOS 13](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2)
+- [Supporting Dark Mode on iOS 13](https://schiavo.me/2019/implementing-dark-mode/)
+- [Implementing iOS 13 Dark Mode in the new BigCommerce mobile app](https://www.bigeng.io/implementing-ios-13-dark-mode-in-the-new-bigcommerce-mobile-app/)
 
-## Context Menus
+## Context Menus / UIMenu
 - [How to Implement iOS 13 Context Menus](https://kylebashour.com/posts/ios-13-context-menus)
+- [UIMenu Improvements in iOS 14](https://www.andyibanez.com/posts/uimenu-improvements-ios14/)
 
 ## Storyboards
 - [Storyboards Tutorial for iOS: Part 1](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
@@ -15,6 +28,11 @@
 - [iOS — Start an app without a storyboard](https://medium.com/ios-os-x-development/ios-start-an-app-without-storyboard-5f57e3251a25)
 - [How Do Unwind Segues Work](https://cocoacasts.com/how-do-unwind-segues-work)
 - [Unwind Segues Step-by-Step (and 4 Reasons to Use Them)](https://matteomanferdini.com/unwind-segue/)
+- [Better dependency injection for Storyboards in iOS13](https://sarunw.com/posts/better-dependency-injection-for-storyboards-in-ios13/)
+- [Better Storyboards with Xcode 11](https://useyourloaf.com/blog/better-storyboards-with-xcode-11/)
+
+## UIScrollView
+- [Understanding UIScrollView](https://oleb.net/blog/2014/04/understanding-uiscrollview/)
 
 ## UIKit Dynamics
 - [UIKit Dynamics in Swift 2.0](https://ahmedabdurrahman.com/2015/10/22/uikit-dynamics-tutorial-in-swift-2-0/)
@@ -22,13 +40,39 @@
 - [Attachment Behaviour Tutorial in iOS8 with Swift](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-tutorial-ios8-swift)
 - [How to make custom UIView animations with UISnapBehavior and UIDynamicItemBehavior](http://sweettutos.com/2015/09/17/uikit-dynamics-series-how-to-make-custom-uiview-animations-with-uisnapbehavior-and-uidynamicitembehavior/)
 - [UIKit Dynamics Guide](http://samwize.com/2016/12/19/uikit-dynamics-guide/)
+- [UIKit Dynamics Tutorial: Getting Started](https://www.raywenderlich.com/2326-uikit-dynamics-tutorial-getting-started)
+- [UIAttachmentBehavior](https://developer.apple.com/documentation/uikit/uiattachmentbehavior)
+- [Creating a Custom Dragging Behavior with UIDynamicAnimator](https://www.programming-books.io/essential/ios/creating-a-custom-dragging-behavior-with-uidynamicanimator-f8374e536d994a40bac91bd872d8eb60)
+- [UIKit Dynamics Attachment Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial)
+- [Implement UIKitDynamics for dragging view off screen](https://stackoverflow.com/questions/21325057/implement-uikitdynamics-for-dragging-view-off-screen)
+- [Adding Animated Effects to iOS App Using UIKit Dynamics](https://www.appcoda.com/intro-uikit-dynamics-tutorial/)
+- [[UIKit Dynamics Series] How to make custom UIView animations with UISnapBehavior and UIDynamicItemBehavior](https://sweettutos.com/2015/09/17/uikit-dynamics-series-how-to-make-custom-uiview-animations-with-uisnapbehavior-and-uidynamicitembehavior/)
+- [UIKit Dynamics Tutorial](https://www.raywenderlich.com/2650-uikit-dynamics-tutorial)
+- [UIDynamicItemBehavior](https://developer.apple.com/documentation/uikit/uidynamicitembehavior)
+- [UIKit Dynamics and Swift Tutorial: Tossing Views](https://www.raywenderlich.com/1860-uikit-dynamics-and-swift-tutorial-tossing-views)
+- [UIKit Dynamics: A Guide to Making Things Move](https://arvindravi.com/uikit-dynamics/)
+- [UIScrollView's Inertia, Bouncing and Rubber-Banding with UIKit Dynamics](https://holko.pl/2014/07/06/inertia-bouncing-rubber-banding-uikit-dynamics/)
+- [Using UIKit Dynamics in Swift to Animate Your Apps](https://www.sitepoint.com/using-uikit-dynamics-swift-animate-apps/)
 
 ## UIViewController
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 - [View Controller Lifecycle Explained: When to Use viewDidLayoutSubviews](https://www.appcoda.com/view-controller-lifecycle/)
+- [View Controllers Explained: Ultimate Guide For iOS & Swift](https://learnappmaking.com/view-controller-uiviewcontroller-ios-swift/#interactive-ui-with-view-controller-actions)
 
 ## UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
+
+## UISegmentedControl
+- [Exploring the New UISegmentedControl Initializer Available in iOS 14](https://prathamesh.xyz/blog/2020/6/25/exploring-the-new-uisegmentedcontrol-initializer-available-in-ios-14)
+
+## UISearchBar
+- [New Search APIs in iOS 13](https://www.andyibanez.com/posts/ios13-new-search-apis/)
+
+## UIColorWheel
+- [iOS 14: Quick dive into the new UIColorWell](https://nemecek.be/blog/34/ios-14-quick-dive-into-the-new-uicolorwell)
+
+## UIColorPickerViewController
+- [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14)
 
 ## UIApplication
 - [Open settings app using openSettingsURLString](https://fluffy.es/open-settings-app/)
@@ -53,6 +97,12 @@
 - [UICollectionView Self Sizing Cells with Auto Layout](https://stackoverflow.com/questions/25895311/uicollectionview-self-sizing-cells-with-auto-layout)
 - [An easier way to dequeue cells in iOS](https://medium.com/over-engineering/an-easier-way-to-dequeue-cells-in-ios-5c8b8de4dfed)
 
+#### UICollectionViewListCell
+- [How to add custom swipe actions to a UICollectionViewListCell?](https://www.donnywals.com/how-to-add-custom-swipe-actions-to-a-uicollectionviewlistcell/)
+
+#### Cell Registration
+- [Configure collection view cells with UICollectionView.CellRegistration](https://www.donnywals.com/configure-collection-view-cells-with-uicollectionview-cellregistration/)
+
 #### UICollectionViewLayout & UICollectionViewFlowLayout
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
 - [Creating A Custom UICollectionViewLayout in Swift    ](https://stablekernel.com/creating-a-custom-uicollectionviewlayout-in-swift/)
@@ -63,6 +113,11 @@
 - [Custom Collection View Layouts](https://www.objc.io/issues/3-views/collection-view-layouts/)
 - [Expanding Cells in iOS Collection Views](https://www.raywenderlich.com/7246-expanding-cells-in-ios-collection-views)
 
+#### UICompositionalLayout
+- [Diffable Data Sources & Compositional Layouts Part 1/2](https://medium.com/@yoellev8/diffable-data-sources-compositional-layouts-part-1-2-90f53f120fdc)
+- [Diffable Data Sources & Compositional Layouts Part 2](https://medium.com/@yoellev8/diffable-data-sources-compositional-layouts-part-2-b0c8d2021ef6)
+- [All you need to know about UICollectionViewCompositionalLayout](https://medium.com/flawless-app-stories/all-what-you-need-to-know-about-uicollectionviewcompositionallayout-f3b2f590bdbe)
+
 ### UITableView
 - [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
 - [Forget datasource & delegate: a new approach to UITableView](http://danielemargutti.com/2017/10/08/forget-datasource-delegates-a-new-approach-to-uitableview/)
@@ -70,6 +125,8 @@
 - [Self-Sizing Table View Cells in Practice](https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/)
 - [Slot-based UI development in Swift](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
 - [Solving duplicated / repeating cells in Table view](https://fluffy.es/solve-duplicated-cells/)
+- [How To Make a Table View Drop-In Card Animation](https://www.raywenderlich.com/2315-how-to-make-a-table-view-drop-in-card-animation)
+- [How to expand and contract height of a UITableView cell when tapped](https://fluffy.es/how-to-expand-tableview-cell/)
 
 ### Data Sources 
 - [A first look at the new diffable data sources for table views and collection views](https://wwdcbysundell.com/2019/diffable-data-sources-first-look/)
@@ -103,6 +160,7 @@
 
 ## UIScrollView
 - [Is it possible for UIStackView to UIScrollView?](https://stackoverflow.com/questions/31668970/is-it-possible-for-uistackview-to-scroll)
+- [Understanding UIScrollView](https://oleb.net/blog/2014/04/understanding-uiscrollview/)
 
 ## UIVisualEffectView
 - [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/167-uivisualeffectview-tutorial-getting-started)
@@ -115,6 +173,24 @@
 
 ## UIMotionEffect
 - [UIMotionEffect: Easily adding depth to your UI](https://nachbaur.com/2019/04/24/uimotioneffects/)
+
+## Text
+- [String Rendering](https://www.objc.io/issues/9-strings/string-rendering/)
+
+### UILabel
+- [Multiple Font, Style for UILable Text using NSAttributed String.](https://medium.com/swift-india/multiple-font-style-for-uilable-text-using-nsattributed-string-3f121036a533)
+- [Animated UILabel with CADisplayLink](https://medium.com/@duwei199714/animated-uilabel-with-cadisplaylink-9a761d693ca5)
+
+### UITextView
+- [CUSTOMIZE A TEXT VIEW](http://theapplady.net/customize-a-text-view/)
+- [How to limit the number of characters in a UITextField or UITextView](https://www.hackingwithswift.com/example-code/uikit/how-to-limit-the-number-of-characters-in-a-uitextfield-or-uitextview)
+- [Scroll UITextView to specific text](https://stackoverflow.com/questions/50190942/scroll-uitextview-to-specific-text)
+- [Scroll text to specific point in UITextView depending on font size](https://stackoverflow.com/questions/52080711/scroll-text-to-specific-point-in-uitextview-depending-on-font-size)
+
+## UINavigationBar
+- [Navigation Bar Customisation. Part 1 - The Basics.](https://dmtopolog.com/navigation-bar-customization/)
+- [Navigation Bar Customisation. Part 2 - UINavigationBarAppearance and proper view/model separation.](https://dmtopolog.com/navigation-bar-customisation-2/)
+- [Swift 4 recipe: Using attributed string in navigation bar title](https://medium.com/@dushyant_db/swift-4-recipe-using-attributed-string-in-navigation-bar-title-39f08f5cdb81)
 
 ## Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
@@ -129,6 +205,8 @@
 - [Dynamic Text Resizing in Swift](https://medium.com/@joncardasis/dynamic-text-resizing-in-swift-3da55887beb3)
 - [How to make Auto Layout more convenient in iOS](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f)
 - [Demystifying iOS Layout](http://tech.gc.com/demystifying-ios-layout/)
+- [Animate Cell Shrinking On Touch](https://medium.com/@aunnnn/how-to-animate-cell-shrinking-on-touch-aa23dddf333a)
+- [Animate AutoLayout Constraints Separately](https://medium.com/@aunnnn/animate-autolayout-constraints-separately-52eeb989a5cc)
 
 ## UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
@@ -157,6 +235,8 @@
 - [Open URLs using the iOS UIResponder chain in Swift](https://medium.com/flawless-app-stories/open-urls-using-the-ios-uiresponder-chain-in-swift-8ca8bc072686)
 - [Using Responders and the Responder Chain to Handle Events](https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/using_responders_and_the_responder_chain_to_handle_events)
 - [Using The Responder Chain](https://useyourloaf.com/blog/using-the-responder-chain/)
+- [iOS Responder Chain: UIResponder, UIEvent, UIControl and uses](https://swiftrocks.com/understanding-the-ios-responder-chain.html)
+- [How to pass UI events through views in iOS](https://medium.com/@nguyenminhphuc/how-to-pass-ui-events-through-views-in-ios-c1be9ab1626b)
 
 ## Notifications Framework (Local & Remote) 
 - [Introduction to User Notifications Framework in iOS 10](https://www.appcoda.com/ios10-user-notifications-guide/)
@@ -189,6 +269,9 @@
 - [Animatable Properties](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreAnimation_guide/AnimatableProperties/AnimatableProperties.html)
 - [Animating changes in UITableView and UICollectionView](https://mecid.github.io/2019/03/13/animating-changes-in-uitableview-and-uicollectionview/)
 - [Adding a wiggle animation to a UIBarButtonItem](http://blog.hellocode.co/post/wiggle-animation-uibarbuttonitem/)
+- [THE DIFFERENCE BETWEEN ANIMATEWITHDURATION AND TRANSITIONWITHVIEW](http://www.developerdave.co.uk/2015/09/the-difference-between-animatewithduration-and-transitionwithview/)
+- [How to implement interactive animations with Swift’s UIViewPropertyAnimator](https://www.freecodecamp.org/news/interactive-animations-with-swifts-uiviewpropertyanimator-284262530a0a/)
+- [Animations Explained](https://www.objc.io/issues/12-animations/animations-explained/)
 
 ### Transitions
 - [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)
@@ -206,12 +289,17 @@
 - [Custom Navigation Transitions, Part II: A Simple Modal](https://devsign.co/notes/navigation-transitions-2)
 - [Custom Navigation Transitions, Part III: A Complex Push/Pop Animation](https://devsign.co/notes/navigation-transitions-iii)
 - [Custom Navigation Transitions, Part IV: An Interactive Pop Transition](https://devsign.co/notes/navigation-transitions-iv)
+- [Learn iOS Custom View Controller Animation Transition once for all!](https://itnext.io/learn-ios-custom-view-controller-animation-transition-once-for-all-9db80ad447e)
 
 ## UIPresentationController
 - [Custom Presentations and Transitions](https://kylebashour.com/posts/custom-view-controller-presentation-tips)
 - [Custom presentations using UIPresentationController in Swift](http://zappdesigntemplates.com/custom-presentations-using-uipresentationcontroller-swift/)
 - [UIPresentationController Tutorial: Getting Started](https://www.raywenderlich.com/915-uipresentationcontroller-tutorial-getting-started)
 - [UIPresentationController](https://developer.apple.com/documentation/uikit/uipresentationcontroller)
+- [UIPresentationController Tutorial: Getting Started](https://www.raywenderlich.com/3636807-uipresentationcontroller-tutorial-getting-started)
+
+## Interface Builder
+- [Interface Builder is declarative too. Where’s the love?](https://aplus.rs/2019/interface-builder-is-declarative-too/)
 
 ## Custom Components
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
@@ -232,6 +320,7 @@
 ## Drag & Drop
 - [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671)
 - [Building a Trello-like iOS App with Drag & Drop API](https://www.appcoda.com/drag-and-drop-api/)
+- [Drag and Drop Tutorial for iOS](https://www.raywenderlich.com/3121851-drag-and-drop-tutorial-for-ios)
 
 ## UIFieldBehavior
 - [UIFieldBehavior - NSHipster](https://nshipster.com/uifieldbehavior/)
@@ -249,3 +338,7 @@
 - [iOS 11: Notable UIKit Additions](https://www.swiftjectivec.com/ios-11-notable-uikit-additions/)
 - [iOS 12: Notable UIKit Additions](https://www.swiftjectivec.com/ios-12-notable-uikit-additions/)
 - [iOS 13: Notable UIKit Additions](https://www.swiftjectivec.com/ios-13-notable-uikit-additions/)
+- [4 breaking changes to check before building your app for iOS 13](https://fluffy.es/4-ios13-breaking-changes/)
+- [HEIC Image Compression for iOS](https://www.raywenderlich.com/4726843-heic-image-compression-for-ios?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B424)
+- [iOS Lifecycle When Dismissing a Modal View With .pageSheet in iOS 13](https://medium.com/better-programming/the-lifecycle-and-control-when-dismissing-a-modal-view-with-pagesheet-in-ios-13-4bbd1e3e1ec7)
+

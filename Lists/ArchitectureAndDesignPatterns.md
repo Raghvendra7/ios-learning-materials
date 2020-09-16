@@ -5,10 +5,12 @@
 - [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 - [Design Patterns in Swift #1: Factory Method and Singleton](https://www.appcoda.com/design-pattern-creational/)
-- [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [Krush iOS Architecture](https://www.teehanlax.com/blog/krush-ios-architecture/)
 - [Encapsulating Domain Data, Logic and Business Rules With Value Types in Swift](https://khawerkhaliq.com/blog/swift-domain-logic-business-rules-value-types/)
 - [Hiding third-party dependencies with protocols and extensions](https://mecid.github.io/2019/02/13/hiding-third-party-dependencies-with-protocols-and-extensions/)
+- [Passive View](https://martinfowler.com/eaaDev/PassiveScreen.html)
+- [Presentation Model](https://martinfowler.com/eaaDev/PresentationModel.html)
+- [ARCHITECTING AN ANALYTICS SERVICE FOR IOS APPS](https://andreaslydemann.com/architecting-an-analytics-service-for-ios-apps/)
 
 ## Designing APIs
 - [Designing Swift APIs](https://www.swiftbysundell.com/posts/designing-swift-apis)
@@ -31,6 +33,7 @@
 - [Extracting view controller actions in Swift](https://www.swiftbysundell.com/posts/extracting-view-controller-actions-in-swift)
 - [Configurable types in Swift](https://www.swiftbysundell.com/posts/configurable-types-in-swift)
 - [Layered Architecture to Design iOS Apps](https://www.vadimbulavin.com/layered-architecture-ios/)
+- [Splitting up Swift types](https://www.swiftbysundell.com/articles/splitting-up-swift-types/)
 
 ## Massive View Controller
 - [How to refactor massive view controllers](https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers)
@@ -49,6 +52,11 @@
 - [Enum-Driven TableView Development](https://www.raywenderlich.com/5542-enum-driven-tableview-development)
 - [Maintaining State in Your ViewControllers](https://mecid.github.io/2019/01/23/maintaining-state-in-view-controllers/)
 - [Modeling State In Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift)
+- [The Comprehensive Guide to the State Management in iOS](https://www.appcoda.com/state-management-ios/)
+- [The easiest State Machine in Swift](https://albertodebortoli.com/2018/12/16/the-easiest-state-machine-in-swift/)
+- [State Machines in Swift using enums](http://www.splinter.com.au/2019/04/10/swift-state-machines-with-enums/)
+- [Modelling state in Swift](https://www.swiftbysundell.com/articles/modelling-state-in-swift/)
+- [Maintaining State in Your Apps](https://developer.apple.com/documentation/swift/maintaining_state_in_your_apps)
 
 ## Legacy Code / Backward Compatability
 - [Writing backward compatible Swift code](https://www.swiftbysundell.com/posts/writing-backward-compatible-swift-code)
@@ -77,6 +85,9 @@
 
 ## Data Flow between View Controllers
 - [Passing Data Between View Controllers in iOS: The Definitive Guide](https://matteomanferdini.com/how-ios-view-controllers-communicate-with-each-other/)
+
+## Modular Architecture
+- [How to build a modular architecture in iOS](https://benoitpasquier.com/how-build-modular-architecture-ios/)
 
 # Design Patterns
 
@@ -162,7 +173,7 @@
 - [Using NSNotificationCenter in Swift](https://medium.com/@JoyceMatos/using-nsnotificationcenter-in-swift-eb70cf0b60fc)
 - [NSNotificationCenter addObserver in Swift](https://stackoverflow.com/questions/24049020/nsnotificationcenter-addobserver-in-swift)
 
-## Delegate
+## Delegation
 - [Lightweight iOS View Controllers](https://yalantis.com/blog/lightweight-ios-view-controllers-separate-data-sources-guided-mvc/)
 - [Apple’s Take on App Architecture](http://oleb.net/blog/2014/06/apples-take-on-app-architecture/)
 - [Fluent Pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
@@ -191,6 +202,8 @@
 - [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-4-4-ce3723d819d)
 - [Dependency Injection in Swift with Protocols](https://mecid.github.io/2019/03/06/dependency-injection-in-swift-with-protocols/)
 - [Looser dependencies with Swift](https://juripakaste.fi/dependency_protocols_structs.html)
+- [A Swift-y Approach to Dependency Injection](https://danielhall.io/a-swift-y-approach-to-dependency-injection)
+- [Swift-y Dependency Injection, Part Two](https://www.danielhall.io/swift-y-dependency-injection-part-two)
 
 ## Iterator
 - [Design Patterns in Swift: Iterator Pattern](https://agostini.tech/2018/06/10/design-patterns-in-swift-iterator-pattern/)
@@ -218,7 +231,14 @@
 ## Binding
 - [Bindable values in Swift](https://www.swiftbysundell.com/posts/bindable-values-in-swift)
 
+## DTO (Data Transfer Object)
+- [What is Data Transfer Object?](https://stackoverflow.com/questions/1051182/what-is-data-transfer-object)
+- [LocalDTO](https://martinfowler.com/bliki/LocalDTO.html)
+- [Why Model Objects Shouldn’t Implement Swift’s Decodable or Encodable Protocols](https://medium.com/better-programming/why-model-objects-shouldnt-implement-swift-s-decodable-or-encodable-protocols-1249cb44d4b3)
+
 # Architectural Patterns
+- [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+- [The best architecture for the iOS app, does it even exist?](https://medium.com/flawless-app-stories/the-best-architecture-for-ios-app-does-it-even-exist-3af357ac62e7)
 
 ## MVC
 Model View Controller
@@ -236,6 +256,8 @@ Model View Controller
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-)
 - [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
 - [Model-View-Controller (MVC) in iOS: A Modern Approach](https://www.raywenderlich.com/sessions/new?return_path=%2F1073-model-view-controller-mvc-in-ios-a-modern-approach)
+- [MVC: Many View Controllers](https://rambo.codes/posts/2020-02-20-mvc-with-sugar)
+- [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
 
 ### Video
 - [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
@@ -280,6 +302,7 @@ Model View View-Movel
 - [Basic MVVM with ReactiveCocoa](https://cocoasamurai.blogspot.com/2013/03/basic-mvvm-with-reactivecocoa.html)
 - [Mastering MVVM on iOS](https://mecid.github.io/2018/01/11/mastering-mvvm-on-ios/)
 - [Practical MVVM + RxSwift](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693)
+- [MVVM with Combine Tutorial for iOS](https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios)
 
 ### Video 
 - [Swift: How to Migrate MVC to MVVM & Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks)
