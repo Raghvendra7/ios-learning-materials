@@ -3,9 +3,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/jvirus/ios-learning-materials?label=Last%20Commit)
 [![Language](https://img.shields.io/badge/Language-Swift-green.svg)]()
 [![Founded](https://img.shields.io/badge/Founded-August_2017-ff69b4.svg)]()
-[![Materials](https://img.shields.io/badge/Materials-2067-important.svg)]()
+[![Materials](https://img.shields.io/badge/Materials-2078-important.svg)]()
 [![MajorTopics](https://img.shields.io/badge/Major_Topics-81-red.svg)]()
-![GitHub contributors](https://img.shields.io/github/contributors/jvirus/ios-learning-materials)
+[![Last Commit](https://img.shields.io/github/last-commit/jvirus/ios-learning-materials)]()
+[![NLOC](https://img.shields.io/tokei/lines/github/jvirus/ios-learning-materials)]()
+[![Contributors](https://img.shields.io/github/contributors/jvirus/ios-learning-materials)]()
+[![Repo Size](https://img.shields.io/github/repo-size/jvirus/ios-learning-materials)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
 ![](logo-alternative.jpg)
@@ -104,19 +107,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Product](Lists/Product.md)
 
 # 👨‍💻 Author
-
 [Astemir Eleev](https://github.com/jVirus)
-
-# 🙋‍♀️🙋‍♂️ Contributors
-
-- [Zakaria Braksa](https://github.com/nsbraksa)
-- [Lisa Dziuba](https://github.com/LisaDziuba)
-- [Semen Zhydenko](https://github.com/ss18)
-- [V8tr](https://github.com/V8tr)
-- [YUAMING](https://github.com/yuaming)
-- [Ozgur Sahin](https://github.com/ozgurshn)
-- [Jr. Ken J.](https://github.com/kenjonesjr)
-- [Umar Haroon](https://github.com/Umar-M-Haroon)
 
 # 🔖 Licence
 The project is availabe under [MIT Licence](https://github.com/jVirus/ios-learning-materials/blob/master/LICENSE)
